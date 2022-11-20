@@ -1,6 +1,6 @@
 {
 	"name": "pubhtmlhere",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"description": "public your dir. here to some port",
 	"main": "index.js",
 	"scripts": {

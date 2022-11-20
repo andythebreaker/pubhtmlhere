@@ -44,6 +44,26 @@ and it will work!
 
 `48489`
 
+## use ur own port
+
+run
+
+```bash=
+pubhtml up -p=12345
+```
+
+where 12345 is the port u want
+
+## help
+
+type
+
+```bash=
+pubhtml up -h
+```
+
+if u need any help
+
 ## test ok on
 
 ### os

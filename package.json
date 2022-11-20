@@ -1,0 +1,33 @@
+{
+	"name": "pubhtmlhere",
+	"version": "1.1.0",
+	"description": "public your dir. here to some port",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"preferGlobal": true,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/andythebreaker/pubhtmlhere.git"
+	},
+	"bin": {
+		"pubhtml": "./index.js"
+	},
+	"keywords": [
+		"public",
+		"dir",
+		"list"
+	],
+	"author": "andythebreaker",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/andythebreaker/pubhtmlhere/issues"
+	},
+	"homepage": "https://github.com/andythebreaker/pubhtmlhere#readme",
+	"dependencies": {
+		"connect": "2.30.2",
+		"cors": "^2.8.5",
+		"dirlist": "^1.0.2"
+	}
+}

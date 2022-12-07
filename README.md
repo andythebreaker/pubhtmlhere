@@ -64,6 +64,17 @@ pubhtml up -h
 
 if u need any help
 
+## USE PYTHON
+
+```
+node index.js up -t -p 8000
+```
+
+### TODO
+
+- check if usr installed python
+- python & python3 let usr can change
+
 ## test ok on
 
 ### os

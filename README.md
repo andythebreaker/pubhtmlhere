@@ -23,7 +23,7 @@ z.txt	2022-09-20 at 07:29:27.700	2
 ## install
 
 ```bash=
-sudo npm i -g pubhtmlhere
+sudo npm i -g pubhtml
 ```
 
 > IDK how 2 install if u don't have sudo (lol)

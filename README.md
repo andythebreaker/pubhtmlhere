@@ -72,6 +72,7 @@ node index.js up -t -p 8000
 
 ### TODO
 
+- py function error
 - check if usr installed python
 - python & python3 let usr can change
 

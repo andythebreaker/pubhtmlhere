@@ -1,6 +1,6 @@
 {
 	"name": "pubhtmlhere",
-	"version": "2.1.2",
+	"version": "2.2.8",
 	"description": "public your dir. here to some port",
 	"main": "index.js",
 	"scripts": {
@@ -26,11 +26,11 @@
 	},
 	"homepage": "https://github.com/andythebreaker/pubhtmlhere#readme",
 	"dependencies": {
-		"connect": "2.30.2",
+		"connect": "^3.7.0",
 		"cors": "^2.8.5",
 		"dirlist": "^1.0.2",
-		"yargs": "^17.6.2",
+		"yargs": "^17.7.2",
 		"node-cmd": "*",
-		"serve-favicon":"*"
+		"serve-static": "*"
 	}
 }
